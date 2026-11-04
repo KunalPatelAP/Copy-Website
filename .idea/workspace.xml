@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6735a1d2-8958-476a-ac06-76ecaa331a10" name="Changes" comment="All changes">
+      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/new project.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/First website.html" beforeDir="false" afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/First website.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/OneDrive - FRHSD/Desktop/new project" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3KPeqh6sIskaiXXYhRtxxax2lRI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6735a1d2-8958-476a-ac06-76ecaa331a10" name="Changes" comment="" />
+      <created>1791463822826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791463822826</updated>
+      <workItem from="1791463823855" duration="682000" />
+      <workItem from="1791553886441" duration="4051000" />
+      <workItem from="1791891311370" duration="3629000" />
+      <workItem from="1792072382661" duration="4072000" />
+      <workItem from="1792089158937" duration="1389000" />
+      <workItem from="1793022815825" duration="92000" />
+      <workItem from="1793022929858" duration="510000" />
+      <workItem from="1793025023785" duration="1515000" />
+      <workItem from="1793282059378" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="All changes">
+      <option name="closed" value="true" />
+      <created>1792076483856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792076483856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="All changes" />
+  </component>
+</project>
