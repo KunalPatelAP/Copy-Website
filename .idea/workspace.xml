@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6735a1d2-8958-476a-ac06-76ecaa331a10" name="Changes" comment="All changes">
-      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/new project.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/First website.html" beforeDir="false" afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/First website.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/OneDrive - FRHSD/Desktop/new project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/OneDrive - FRHSD/Desktop/new project" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KunalPatelAP/Copy-Website.git",
+    "accountId": "dd13c542-6533-43fe-9068-0ff623356414"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -75,6 +76,8 @@
       <workItem from="1793022929858" duration="510000" />
       <workItem from="1793025023785" duration="1515000" />
       <workItem from="1793282059378" duration="301000" />
+      <workItem from="1793804114939" duration="3740000" />
+      <workItem from="1794318056603" duration="2675000" />
     </task>
     <task id="LOCAL-00001" summary="All changes">
       <option name="closed" value="true" />
@@ -84,7 +87,23 @@
       <option name="project" value="LOCAL" />
       <updated>1792076483856</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All changes">
+      <option name="closed" value="true" />
+      <created>1793808071294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793808071294</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All changes">
+      <option name="closed" value="true" />
+      <created>1794321364830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794321364830</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
