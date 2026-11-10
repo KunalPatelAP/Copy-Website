@@ -7,13 +7,15 @@ a {
     color: #ffffff;
     font-weight: bold;
 }
-
-body {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5O3sc1bqUAe1XG8LBYb8_gLjGo7YBRGk4uCpZYdX8fg&s=10');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 5px 100px;
+id15633{
+    img {
+        grid-column: span 3;
+        grid-row: span 3;
+        width: 100%;
+        height: 100%;
+    }
 }
+
 </style>
 </head>
 <body>
